@@ -1,10 +1,11 @@
-## C Project
+# C Project
 
 **C language project**
-Individual project & Layer7 team project(with [Juno Im](https://github.com/junorouse)).
+
+Individual project & Layer7 team project (with [Juno Im](https://github.com/junorouse)).
 
 
-##Contents
+## Contents
 
 - [**Pokemon**](https://github.com/M4steM4) : Layer7 C socket game program
 - [**Virus**](https://github.com/M4steM4) : Layer7 C virus program
